@@ -6,7 +6,6 @@ Crafty Technologies is a forward-thinking company specializing in **tech news, s
 ## How to Contribute 💡  
 We welcome contributions from developers, designers, and tech enthusiasts!  
 - Check out our repositories and issues.  
-- Follow our [/docs/CONTRIBUTING.md](#)  
 - Submit a pull request with your improvements.  
 
 
