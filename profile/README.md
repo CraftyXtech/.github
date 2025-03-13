@@ -18,7 +18,7 @@ Crafty Technologies is a forward-thinking company dedicated to **revolutionizing
 
 ## 📬 Get Involved  
 
-🌐 Visit our website: [CraftyXTech](craftyxtach.com)  
+🌐 Visit our website: [CraftyXTech](https://craftyxtech.com)  
 🐙 Follow us on GitHub: [GitHub Organization](https://github.com/CraftyXtech)  
 📧 Contact us: [Email](mailto:info@craftytechnologies.com)  
 
